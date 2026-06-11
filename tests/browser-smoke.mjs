@@ -153,6 +153,25 @@ async function assertKnownClueCleanup(page) {
     false,
     "truncated Jonas clue trims partial could stem"
   );
+
+  const aaronGordonClues = await page.evaluate(() => window.__guessThePlayerSmoke.getPreparedCluesForPlayer("aaron gordon"));
+  assert.equal(
+    aaronGordonClues.some((clue) => clue.includes("[PLAYER]")),
+    false,
+    "Aaron Gordon clues do not leak redaction placeholders"
+  );
+
+  const ramseyClues = await page.evaluate(() => window.__guessThePlayerSmoke.getPreparedCluesForPlayer("jahmi us ramsey"));
+  assert.ok(ramseyClues.length >= 3, "Jahmi'us Ramsey clue fixtures are available");
+  assert.equal(
+    ramseyClues.some((clue) => /Smith is an ideal big|Shai Gilgeous-Alexander/i.test(clue)),
+    false,
+    "mismatched Smith big-man fragment is removed from Jahmi'us Ramsey clues"
+  );
+  assert.ok(
+    ramseyClues.some((clue) => /scorer.s mentality|guard position|behind the arch/i.test(clue)),
+    "legitimate Jahmi'us Ramsey guard/scorer clues remain"
+  );
 }
 
 async function assertContextualInitialsSearch(page) {

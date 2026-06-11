@@ -319,9 +319,25 @@ function cleanPhrases(card, player) {
   const redacted = replacePlayerPlaceholders(redactPlayerName(decoded, player.player_name));
   return splitClueText(redacted)
     .map(stripSourceLeakage)
+    .filter((phrase) => !hasMismatchedNamedSubject(phrase, player))
     .map(addTrailOff)
     .map((phrase) => phrase.replace(/\s+/g, " ").trim())
     .filter((phrase) => phrase.length >= 24);
+}
+
+function hasMismatchedNamedSubject(phrase, player) {
+  const answerParts = new Set(normalizeSearch(player.player_name).split(" ").filter(Boolean));
+  const subjectPattern = /\b([A-Z][A-Za-z.'-]{2,}(?:\s+[A-Z][A-Za-z.'-]{2,}){0,2})\s+(?:is|was|has|had|averaged|shot|shoots|will|would|can|could|should|projects|appears|looks)\b/g;
+
+  for (const match of String(phrase).matchAll(subjectPattern)) {
+    const subject = normalizeSearch(match[1]).split(" ").filter(Boolean);
+    if (!subject.length) continue;
+    if (subject.every((part) => answerParts.has(part))) continue;
+
+    return true;
+  }
+
+  return false;
 }
 
 function splitClueText(text) {
@@ -421,10 +437,10 @@ function addTrailOff(phrase) {
 function replacePlayerPlaceholders(text) {
   return String(text)
     .replace(/\[PLAYER\]\s*['’]s\b/g, "His")
-    .replace(/\b\[PLAYER\]\s+(is|was|has|had|does|did|can|could|will|would|should|must)\b/gi, (_, verb) => {
+    .replace(/\[PLAYER\]\s+(is|was|has|had|does|did|can|could|will|would|should|must)\b/gi, (_, verb) => {
       return `He ${verb.toLowerCase()}`;
     })
-    .replace(/\b\[PLAYER\]\b/g, "the player");
+    .replace(/\[PLAYER\]/g, "the player");
 }
 
 function trimDanglingTrail(phrase) {
