@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>Guess the Player</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <h1>Guess the Player</h1>
+          <p class="subhead">A scouting-report puzzle from draft notes.</p>
+        </div>
+      </header>
+
+      <main class="game-layout">
+        <section class="play-column" aria-label="Guessing board">
+          <div class="status-row">
+            <button class="button secondary" id="newGameButton" type="button">New player</button>
+            <div class="stat-strip" aria-label="Game stats">
+              <span><b id="statPlayed">0</b> played</span>
+              <span><b id="statWinRate">0%</b> win</span>
+              <span><b id="statStreak">0</b> streak</span>
+            </div>
+          </div>
+
+          <div class="attempt-pips" id="attemptPips" aria-label="Attempts"></div>
+
+          <div class="portrait-panel">
+            <div class="portrait-frame" id="portraitFrame">
+              <img id="playerHeadshot" alt="" hidden>
+              <div class="portrait-fallback" id="portraitFallback">?</div>
+            </div>
+            <div class="answer-summary" id="answerSummary" hidden>
+              <h2 id="answerName"></h2>
+              <p id="answerMeta"></p>
+            </div>
+          </div>
+
+          <div class="clue-panel">
+            <div class="panel-heading">
+              <h2>Scouting report</h2>
+              <p id="roundStatus">Loading player data...</p>
+            </div>
+
+            <ol class="clue-list" id="clueList" aria-live="polite"></ol>
+          </div>
+
+          <form class="guess-form" id="guessForm" autocomplete="off">
+            <label for="guessInput">Your guess</label>
+            <div class="guess-row">
+              <div class="search-box">
+                <input
+                  id="guessInput"
+                  type="search"
+                  placeholder="Search players"
+                  aria-autocomplete="list"
+                  aria-controls="suggestionList"
+                  aria-expanded="false"
+                  disabled
+                >
+                <div class="suggestions" id="suggestionList" role="listbox"></div>
+              </div>
+              <div class="guess-actions">
+                <button class="button secondary" id="randomGuessButton" type="button" disabled>Random</button>
+                <button class="button primary" id="guessButton" type="submit" disabled>Guess</button>
+              </div>
+            </div>
+            <p class="form-message" id="message" role="status"></p>
+          </form>
+
+          <div class="feedback-panel" id="feedbackPanel" hidden>
+            <div class="panel-heading compact">
+              <h2>Guesses</h2>
+              <span id="guessCountLabel">0 of 6</span>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Player</th>
+                    <th>First</th>
+                    <th>Last</th>
+                    <th>Year</th>
+                    <th>Pick</th>
+                    <th>Round</th>
+                  </tr>
+                </thead>
+                <tbody id="guessTableBody">
+                  <tr class="empty-row">
+                    <td colspan="6">No guesses yet.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="hints-panel" id="hintsPanel" hidden>
+            <div class="panel-heading compact">
+              <h2>Hints</h2>
+              <span id="hintProgress">0 unlocked</span>
+            </div>
+            <div class="trait-chips" id="traitChips" aria-label="Revealed traits"></div>
+            <div class="hint-list" id="hintList"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

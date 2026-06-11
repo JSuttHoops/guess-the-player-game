@@ -1,0 +1,363 @@
+team_id,display_name,short_display_name,location,name,nickname,abbreviation,slug
+2000,Abilene Christian Wildcats,Abilene Chrstn,Abilene Christian,Wildcats,Abilene Chrstn,ACU,abilene-christian-wildcats
+2005,Air Force Falcons,Air Force,Air Force,Falcons,Air Force,AF,air-force-falcons
+2006,Akron Zips,Akron,Akron,Zips,Akron,AKR,akron-zips
+2010,Alabama A&M Bulldogs,Alabama A&M,Alabama A&M,Bulldogs,Alabama A&M,AAMU,alabama-am-bulldogs
+333,Alabama Crimson Tide,Alabama,Alabama,Crimson Tide,Alabama,ALA,alabama-crimson-tide
+2011,Alabama State Hornets,Alabama St,Alabama State,Hornets,Alabama St,ALST,alabama-state-hornets
+2016,Alcorn State Braves,Alcorn St,Alcorn State,Braves,Alcorn St,ALCN,alcorn-state-braves
+44,American University Eagles,American,American University,Eagles,American,AMER,american-university-eagles
+2026,App State Mountaineers,App State,App State,Mountaineers,App State,APP,app-state-mountaineers
+9,Arizona State Sun Devils,Arizona St,Arizona State,Sun Devils,Arizona St,ASU,arizona-state-sun-devils
+12,Arizona Wildcats,Arizona,Arizona,Wildcats,Arizona,ARIZ,arizona-wildcats
+8,Arkansas Razorbacks,Arkansas,Arkansas,Razorbacks,Arkansas,ARK,arkansas-razorbacks
+2032,Arkansas State Red Wolves,Arkansas St,Arkansas State,Red Wolves,Arkansas St,ARST,arkansas-state-red-wolves
+2029,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff,Arkansas-Pine Bluff,Golden Lions,AR-Pine Bluff,UAPB,arkansas-pine-bluff-golden-lions
+349,Army Black Knights,Army,Army,Black Knights,Army,ARMY,army-black-knights
+2,Auburn Tigers,Auburn,Auburn,Tigers,Auburn,AUB,auburn-tigers
+2046,Austin Peay Governors,Austin Peay,Austin Peay,Governors,Austin Peay,APSU,austin-peay-governors
+252,BYU Cougars,BYU,BYU,Cougars,BYU,BYU,byu-cougars
+2050,Ball State Cardinals,Ball State,Ball State,Cardinals,Ball State,BALL,ball-state-cardinals
+239,Baylor Bears,Baylor,Baylor,Bears,Baylor,BAY,baylor-bears
+91,Bellarmine Knights,Bellarmine,Bellarmine,Knights,Bellarmine,BELL,bellarmine-knights
+2057,Belmont Bruins,Belmont,Belmont,Bruins,Belmont,BEL,belmont-bruins
+2065,Bethune-Cookman Wildcats,Bethune,Bethune-Cookman,Wildcats,Bethune,BCU,bethune-cookman-wildcats
+2066,Binghamton Bearcats,Binghamton,Binghamton,Bearcats,Binghamton,BING,binghamton-bearcats
+68,Boise State Broncos,Boise St,Boise State,Broncos,Boise St,BOIS,boise-state-broncos
+103,Boston College Eagles,Boston College,Boston College,Eagles,Boston College,BC,boston-college-eagles
+104,Boston University Terriers,Boston U,Boston University,Terriers,Boston U,BU,boston-university-terriers
+189,Bowling Green Falcons,Bowling Green,Bowling Green,Falcons,Bowling Green,BGSU,bowling-green-falcons
+71,Bradley Braves,Bradley,Bradley,Braves,Bradley,BRAD,bradley-braves
+225,Brown Bears,Brown,Brown,Bears,Brown,BRWN,brown-bears
+2803,Bryant Bulldogs,Bryant,Bryant,Bulldogs,Bryant,BRY,bryant-bulldogs
+2083,Bucknell Bison,Bucknell,Bucknell,Bison,Bucknell,BUCK,bucknell-bison
+2084,Buffalo Bulls,Buffalo,Buffalo,Bulls,Buffalo,BUF,buffalo-bulls
+2086,Butler Bulldogs,Butler,Butler,Bulldogs,Butler,BUT,butler-bulldogs
+13,Cal Poly Mustangs,Cal Poly,Cal Poly,Mustangs,Cal Poly,CP,cal-poly-mustangs
+2934,Cal State Bakersfield Roadrunners,Bakersfield,Cal State Bakersfield,Roadrunners,Bakersfield,CSUB,cal-state-bakersfield-roadrunners
+2239,Cal State Fullerton Titans,Fullerton,Cal State Fullerton,Titans,Fullerton,CSUF,cal-state-fullerton-titans
+2463,Cal State Northridge Matadors,CSU Northridge,Cal State Northridge,Matadors,CSU Northridge,CSUN,cal-state-northridge-matadors
+2856,California Baptist Lancers,CA Baptist,California Baptist,Lancers,CA Baptist,CBU,california-baptist-lancers
+25,California Golden Bears,California,California,Golden Bears,California,CAL,california-golden-bears
+2097,Campbell Fighting Camels,Campbell,Campbell,Fighting Camels,Campbell,CAM,campbell-fighting-camels
+2099,Canisius Golden Griffins,Canisius,Canisius,Golden Griffins,Canisius,CAN,canisius-golden-griffins
+2110,Central Arkansas Bears,C Arkansas,Central Arkansas,Bears,C Arkansas,CARK,central-arkansas-bears
+2115,Central Connecticut Blue Devils,C Connecticut,Central Connecticut,Blue Devils,C Connecticut,CCSU,central-connecticut-blue-devils
+2117,Central Michigan Chippewas,C Michigan,Central Michigan,Chippewas,C Michigan,CMU,central-michigan-chippewas
+232,Charleston Cougars,Charleston,Charleston,Cougars,Charleston,COFC,charleston-cougars
+2127,Charleston Southern Buccaneers,Charleston So,Charleston Southern,Buccaneers,Charleston So,CHSO,charleston-southern-buccaneers
+2429,Charlotte 49ers,Charlotte,Charlotte,49ers,Charlotte,CLT,charlotte-49ers
+236,Chattanooga Mocs,Chattanooga,Chattanooga,Mocs,Chattanooga,UTC,chattanooga-mocs
+2130,Chicago State Cougars,Chicago St,Chicago State,Cougars,Chicago St,CHST,chicago-state-cougars
+2132,Cincinnati Bearcats,Cincinnati,Cincinnati,Bearcats,Cincinnati,CIN,cincinnati-bearcats
+228,Clemson Tigers,Clemson,Clemson,Tigers,Clemson,CLEM,clemson-tigers
+325,Cleveland State Vikings,Cleveland St,Cleveland State,Vikings,Cleveland St,CLE,cleveland-state-vikings
+324,Coastal Carolina Chanticleers,Coastal,Coastal Carolina,Chanticleers,Coastal,CCU,coastal-carolina-chanticleers
+2142,Colgate Raiders,Colgate,Colgate,Raiders,Colgate,COLG,colgate-raiders
+38,Colorado Buffaloes,Colorado,Colorado,Buffaloes,Colorado,COLO,colorado-buffaloes
+36,Colorado State Rams,Colorado St,Colorado State,Rams,Colorado St,CSU,colorado-state-rams
+171,Columbia Lions,Columbia,Columbia,Lions,Columbia,COLU,columbia-lions
+2154,Coppin State Eagles,Coppin St,Coppin State,Eagles,Coppin St,COPP,coppin-state-eagles
+172,Cornell Big Red,Cornell,Cornell,Big Red,Cornell,COR,cornell-big-red
+156,Creighton Bluejays,Creighton,Creighton,Bluejays,Creighton,CREI,creighton-bluejays
+159,Dartmouth Big Green,Dartmouth,Dartmouth,Big Green,Dartmouth,DART,dartmouth-big-green
+2166,Davidson Wildcats,Davidson,Davidson,Wildcats,Davidson,DAV,davidson-wildcats
+2168,Dayton Flyers,Dayton,Dayton,Flyers,Dayton,DAY,dayton-flyers
+305,DePaul Blue Demons,DePaul,DePaul,Blue Demons,DePaul,DEP,depaul-blue-demons
+48,Delaware Blue Hens,Delaware,Delaware,Blue Hens,Delaware,DEL,delaware-blue-hens
+2169,Delaware State Hornets,Delaware St,Delaware State,Hornets,Delaware St,DSU,delaware-state-hornets
+2172,Denver Pioneers,Denver,Denver,Pioneers,Denver,DEN,denver-pioneers
+2174,Detroit Mercy Titans,Detroit Mercy,Detroit Mercy,Titans,Detroit Mercy,DETM,detroit-mercy-titans
+2181,Drake Bulldogs,Drake,Drake,Bulldogs,Drake,DRKE,drake-bulldogs
+2182,Drexel Dragons,Drexel,Drexel,Dragons,Drexel,DREX,drexel-dragons
+150,Duke Blue Devils,Duke,Duke,Blue Devils,Duke,DUKE,duke-blue-devils
+2184,Duquesne Dukes,Duquesne,Duquesne,Dukes,Duquesne,DUQ,duquesne-dukes
+151,East Carolina Pirates,East Carolina,East Carolina,Pirates,East Carolina,ECU,east-carolina-pirates
+2193,East Tennessee State Buccaneers,ETSU,East Tennessee State,Buccaneers,ETSU,ETSU,east-tennessee-state-buccaneers
+2837,East Texas A&M Lions,E Texas A&M,East Texas A&M,Lions,E Texas A&M,ETAM,east-texas-am-lions
+2197,Eastern Illinois Panthers,E Illinois,Eastern Illinois,Panthers,E Illinois,EIU,eastern-illinois-panthers
+2198,Eastern Kentucky Colonels,E Kentucky,Eastern Kentucky,Colonels,E Kentucky,EKU,eastern-kentucky-colonels
+2199,Eastern Michigan Eagles,E Michigan,Eastern Michigan,Eagles,E Michigan,EMU,eastern-michigan-eagles
+331,Eastern Washington Eagles,E Washington,Eastern Washington,Eagles,E Washington,EWU,eastern-washington-eagles
+2210,Elon Phoenix,Elon,Elon,Phoenix,Elon,ELON,elon-phoenix
+339,Evansville Purple Aces,Evansville,Evansville,Purple Aces,Evansville,EVAN,evansville-purple-aces
+2217,Fairfield Stags,Fairfield,Fairfield,Stags,Fairfield,FAIR,fairfield-stags
+161,Fairleigh Dickinson Knights,FDU,Fairleigh Dickinson,Knights,FDU,FDU,fairleigh-dickinson-knights
+50,Florida A&M Rattlers,Florida A&M,Florida A&M,Rattlers,Florida A&M,FAMU,florida-am-rattlers
+2226,Florida Atlantic Owls,FAU,Florida Atlantic,Owls,FAU,FAU,florida-atlantic-owls
+57,Florida Gators,Florida,Florida,Gators,Florida,FLA,florida-gators
+526,Florida Gulf Coast Eagles,FGCU,Florida Gulf Coast,Eagles,FGCU,FGCU,florida-gulf-coast-eagles
+2229,Florida International Panthers,FIU,Florida International,Panthers,FIU,FIU,florida-international-panthers
+52,Florida State Seminoles,Florida St,Florida State,Seminoles,Florida St,FSU,florida-state-seminoles
+2230,Fordham Rams,Fordham,Fordham,Rams,Fordham,FOR,fordham-rams
+278,Fresno State Bulldogs,Fresno St,Fresno State,Bulldogs,Fresno St,FRES,fresno-state-bulldogs
+231,Furman Paladins,Furman,Furman,Paladins,Furman,FUR,furman-paladins
+2241,Gardner-Webb Runnin' Bulldogs,Gardner-Webb,Gardner-Webb,Runnin' Bulldogs,Gardner-Webb,GWEB,gardner-webb-runnin-bulldogs
+2244,George Mason Patriots,George Mason,George Mason,Patriots,George Mason,GMU,george-mason-patriots
+45,George Washington Revolutionaries,G Washington,George Washington,Revolutionaries,G Washington,GW,george-washington-revolutionaries
+46,Georgetown Hoyas,Georgetown,Georgetown,Hoyas,Georgetown,GTWN,georgetown-hoyas
+61,Georgia Bulldogs,Georgia,Georgia,Bulldogs,Georgia,UGA,georgia-bulldogs
+290,Georgia Southern Eagles,GA Southern,Georgia Southern,Eagles,GA Southern,GASO,georgia-southern-eagles
+2247,Georgia State Panthers,Georgia St,Georgia State,Panthers,Georgia St,GAST,georgia-state-panthers
+59,Georgia Tech Yellow Jackets,Georgia Tech,Georgia Tech,Yellow Jackets,Georgia Tech,GT,georgia-tech-yellow-jackets
+2250,Gonzaga Bulldogs,Gonzaga,Gonzaga,Bulldogs,Gonzaga,GONZ,gonzaga-bulldogs
+2755,Grambling Tigers,Grambling,Grambling,Tigers,Grambling,GRAM,grambling-tigers
+2253,Grand Canyon Lopes,Grand Canyon,Grand Canyon,Lopes,Grand Canyon,GCU,grand-canyon-lopes
+2739,Green Bay Phoenix,Green Bay,Green Bay,Phoenix,Green Bay,GB,green-bay-phoenix
+2261,Hampton Pirates,Hampton,Hampton,Pirates,Hampton,HAMP,hampton-pirates
+108,Harvard Crimson,Harvard,Harvard,Crimson,Harvard,HARV,harvard-crimson
+62,Hawai'i Rainbow Warriors,Hawai'i,Hawai'i,Rainbow Warriors,Hawai'i,HAW,hawaii-rainbow-warriors
+2272,High Point Panthers,High Point,High Point,Panthers,High Point,HPU,high-point-panthers
+2275,Hofstra Pride,Hofstra,Hofstra,Pride,Hofstra,HOF,hofstra-pride
+107,Holy Cross Crusaders,Holy Cross,Holy Cross,Crusaders,Holy Cross,HC,holy-cross-crusaders
+2277,Houston Christian Huskies,Hou Christian,Houston Christian,Huskies,Hou Christian,HCU,houston-christian-huskies
+248,Houston Cougars,Houston,Houston,Cougars,Houston,HOU,houston-cougars
+47,Howard Bison,Howard,Howard,Bison,Howard,HOW,howard-bison
+85,IU Indianapolis Jaguars,IU Indy,IU Indianapolis,Jaguars,IU Indy,IUIN,iu-indianapolis-jaguars
+304,Idaho State Bengals,Idaho St,Idaho State,Bengals,Idaho St,IDST,idaho-state-bengals
+70,Idaho Vandals,Idaho,Idaho,Vandals,Idaho,IDHO,idaho-vandals
+356,Illinois Fighting Illini,Illinois,Illinois,Fighting Illini,Illinois,ILL,illinois-fighting-illini
+2287,Illinois State Redbirds,Illinois St,Illinois State,Redbirds,Illinois St,ILST,illinois-state-redbirds
+2916,Incarnate Word Cardinals,Incarnate Word,Incarnate Word,Cardinals,Incarnate Word,UIW,incarnate-word-cardinals
+84,Indiana Hoosiers,Indiana,Indiana,Hoosiers,Indiana,IU,indiana-hoosiers
+282,Indiana State Sycamores,Indiana St,Indiana State,Sycamores,Indiana St,INST,indiana-state-sycamores
+314,Iona Gaels,Iona,Iona,Gaels,Iona,IONA,iona-gaels
+2294,Iowa Hawkeyes,Iowa,Iowa,Hawkeyes,Iowa,IOWA,iowa-hawkeyes
+66,Iowa State Cyclones,Iowa State,Iowa State,Cyclones,Iowa State,ISU,iowa-state-cyclones
+2296,Jackson State Tigers,Jackson St,Jackson State,Tigers,Jackson St,JKST,jackson-state-tigers
+294,Jacksonville Dolphins,Jacksonville,Jacksonville,Dolphins,Jacksonville,JAX,jacksonville-dolphins
+55,Jacksonville State Gamecocks,Jax State,Jacksonville State,Gamecocks,Jax State,JXST,jacksonville-state-gamecocks
+256,James Madison Dukes,James Madison,James Madison,Dukes,James Madison,JMU,james-madison-dukes
+140,Kansas City Roos,Kansas City,Kansas City,Roos,Kansas City,KC,kansas-city-roos
+2305,Kansas Jayhawks,Kansas,Kansas,Jayhawks,Kansas,KU,kansas-jayhawks
+2306,Kansas State Wildcats,Kansas St,Kansas State,Wildcats,Kansas St,KSU,kansas-state-wildcats
+338,Kennesaw State Owls,Kennesaw St,Kennesaw State,Owls,Kennesaw St,KENN,kennesaw-state-owls
+2309,Kent State Golden Flashes,Kent State,Kent State,Golden Flashes,Kent State,KENT,kent-state-golden-flashes
+96,Kentucky Wildcats,Kentucky,Kentucky,Wildcats,Kentucky,UK,kentucky-wildcats
+99,LSU Tigers,LSU,LSU,Tigers,LSU,LSU,lsu-tigers
+2325,La Salle Explorers,La Salle,La Salle,Explorers,La Salle,LAS,la-salle-explorers
+322,Lafayette Leopards,Lafayette,Lafayette,Leopards,Lafayette,LAF,lafayette-leopards
+2320,Lamar Cardinals,Lamar,Lamar,Cardinals,Lamar,LAM,lamar-cardinals
+2330,Le Moyne Dolphins,Le Moyne,Le Moyne,Dolphins,Le Moyne,LEM,le-moyne-dolphins
+2329,Lehigh Mountain Hawks,Lehigh,Lehigh,Mountain Hawks,Lehigh,LEH,lehigh-mountain-hawks
+2335,Liberty Flames,Liberty,Liberty,Flames,Liberty,LIB,liberty-flames
+288,Lipscomb Bisons,Lipscomb,Lipscomb,Bisons,Lipscomb,LIP,lipscomb-bisons
+2031,Little Rock Trojans,Little Rock,Little Rock,Trojans,Little Rock,LR,little-rock-trojans
+299,Long Beach State Beach,Long Beach St,Long Beach State,Beach,Long Beach St,LBSU,long-beach-state-beach
+112358,Long Island University Sharks,Long Island,Long Island University,Sharks,Long Island,LIU,long-island-university-sharks
+2344,Longwood Lancers,Longwood,Longwood,Lancers,Longwood,LONG,longwood-lancers
+309,Louisiana Ragin' Cajuns,Louisiana,Louisiana,Ragin' Cajuns,Louisiana,UL,louisiana-ragin-cajuns
+2348,Louisiana Tech Bulldogs,Louisiana Tech,Louisiana Tech,Bulldogs,Louisiana Tech,LT,louisiana-tech-bulldogs
+97,Louisville Cardinals,Louisville,Louisville,Cardinals,Louisville,LOU,louisville-cardinals
+2350,Loyola Chicago Ramblers,Loyola Chicago,Loyola Chicago,Ramblers,Loyola Chicago,LUC,loyola-chicago-ramblers
+2352,Loyola Maryland Greyhounds,Loyola MD,Loyola Maryland,Greyhounds,Loyola MD,L-MD,loyola-maryland-greyhounds
+2351,Loyola Marymount Lions,LMU,Loyola Marymount,Lions,LMU,LMU,loyola-marymount-lions
+311,Maine Black Bears,Maine,Maine,Black Bears,Maine,ME,maine-black-bears
+2363,Manhattan Jaspers,Manhattan,Manhattan,Jaspers,Manhattan,MAN,manhattan-jaspers
+2368,Marist Red Foxes,Marist,Marist,Red Foxes,Marist,MRST,marist-red-foxes
+269,Marquette Golden Eagles,Marquette,Marquette,Golden Eagles,Marquette,MARQ,marquette-golden-eagles
+276,Marshall Thundering Herd,Marshall,Marshall,Thundering Herd,Marshall,MRSH,marshall-thundering-herd
+2379,Maryland Eastern Shore Hawks,MD Eastern,Maryland Eastern Shore,Hawks,MD Eastern,UMES,maryland-eastern-shore-hawks
+120,Maryland Terrapins,Maryland,Maryland,Terrapins,Maryland,MD,maryland-terrapins
+113,Massachusetts Minutemen,UMass,Massachusetts,Minutemen,UMass,MASS,massachusetts-minutemen
+2377,McNeese Cowboys,McNeese,McNeese,Cowboys,McNeese,MCN,mcneese-cowboys
+235,Memphis Tigers,Memphis,Memphis,Tigers,Memphis,MEM,memphis-tigers
+2382,Mercer Bears,Mercer,Mercer,Bears,Mercer,MER,mercer-bears
+2385,Mercyhurst Lakers,Mercyhurst,Mercyhurst,Lakers,Mercyhurst,MERC,mercyhurst-lakers
+2771,Merrimack Warriors,Merrimack,Merrimack,Warriors,Merrimack,MRMK,merrimack-warriors
+193,Miami (OH) RedHawks,Miami OH,Miami (OH),RedHawks,Miami OH,M-OH,miami-oh-redhawks
+2390,Miami Hurricanes,Miami,Miami,Hurricanes,Miami,MIA,miami-hurricanes
+127,Michigan State Spartans,Michigan St,Michigan State,Spartans,Michigan St,MSU,michigan-state-spartans
+130,Michigan Wolverines,Michigan,Michigan,Wolverines,Michigan,MICH,michigan-wolverines
+2393,Middle Tennessee Blue Raiders,MTSU,Middle Tennessee,Blue Raiders,MTSU,MTSU,middle-tennessee-blue-raiders
+270,Milwaukee Panthers,Milwaukee,Milwaukee,Panthers,Milwaukee,MILW,milwaukee-panthers
+135,Minnesota Golden Gophers,Minnesota,Minnesota,Golden Gophers,Minnesota,MINN,minnesota-golden-gophers
+344,Mississippi State Bulldogs,Mississippi St,Mississippi State,Bulldogs,Mississippi St,MSST,mississippi-state-bulldogs
+2400,Mississippi Valley State Delta Devils,Miss Valley St,Mississippi Valley State,Delta Devils,Miss Valley St,MVSU,mississippi-valley-state-delta-devils
+2623,Missouri State Bears,Missouri St,Missouri State,Bears,Missouri St,MOST,missouri-state-bears
+142,Missouri Tigers,Missouri,Missouri,Tigers,Missouri,MIZ,missouri-tigers
+2405,Monmouth Hawks,Monmouth,Monmouth,Hawks,Monmouth,MONM,monmouth-hawks
+149,Montana Grizzlies,Montana,Montana,Grizzlies,Montana,MONT,montana-grizzlies
+147,Montana State Bobcats,Montana St,Montana State,Bobcats,Montana St,MTST,montana-state-bobcats
+2413,Morehead State Eagles,Morehead St,Morehead State,Eagles,Morehead St,MORE,morehead-state-eagles
+2415,Morgan State Bears,Morgan St,Morgan State,Bears,Morgan St,MORG,morgan-state-bears
+116,Mount St. Mary's Mountaineers,Mount St Marys,Mount St. Mary's,Mountaineers,Mount St Marys,MSM,mount-st-marys-mountaineers
+93,Murray State Racers,Murray St,Murray State,Racers,Murray St,MUR,murray-state-racers
+152,NC State Wolfpack,NC State,NC State,Wolfpack,NC State,NCSU,nc-state-wolfpack
+2885,NJIT Highlanders,NJIT,NJIT,Highlanders,NJIT,NJIT,njit-highlanders
+2426,Navy Midshipmen,Navy,Navy,Midshipmen,Navy,NAVY,navy-midshipmen
+158,Nebraska Cornhuskers,Nebraska,Nebraska,Cornhuskers,Nebraska,NEB,nebraska-cornhuskers
+2440,Nevada Wolf Pack,Nevada,Nevada,Wolf Pack,Nevada,NEV,nevada-wolf-pack
+160,New Hampshire Wildcats,New Hampshire,New Hampshire,Wildcats,New Hampshire,UNH,new-hampshire-wildcats
+2441,New Haven Chargers,New Haven,New Haven,Chargers,New Haven,NHVN,new-haven-chargers
+167,New Mexico Lobos,New Mexico,New Mexico,Lobos,New Mexico,UNM,new-mexico-lobos
+166,New Mexico State Aggies,New Mexico St,New Mexico State,Aggies,New Mexico St,NMSU,new-mexico-state-aggies
+2443,New Orleans Privateers,New Orleans,New Orleans,Privateers,New Orleans,UNO,new-orleans-privateers
+315,Niagara Purple Eagles,Niagara,Niagara,Purple Eagles,Niagara,NIA,niagara-purple-eagles
+2447,Nicholls Colonels,Nicholls,Nicholls,Colonels,Nicholls,NICH,nicholls-colonels
+2450,Norfolk State Spartans,Norfolk St,Norfolk State,Spartans,Norfolk St,NORF,norfolk-state-spartans
+2453,North Alabama Lions,North Alabama,North Alabama,Lions,North Alabama,UNA,north-alabama-lions
+2448,North Carolina A&T Aggies,NC A&T,North Carolina A&T,Aggies,NC A&T,NCAT,north-carolina-at-aggies
+2428,North Carolina Central Eagles,NC Central,North Carolina Central,Eagles,NC Central,NCCU,north-carolina-central-eagles
+153,North Carolina Tar Heels,North Carolina,North Carolina,Tar Heels,North Carolina,UNC,north-carolina-tar-heels
+155,North Dakota Fighting Hawks,North Dakota,North Dakota,Fighting Hawks,North Dakota,UND,north-dakota-fighting-hawks
+2449,North Dakota State Bison,N Dakota St,North Dakota State,Bison,N Dakota St,NDSU,north-dakota-state-bison
+2454,North Florida Ospreys,North Florida,North Florida,Ospreys,North Florida,UNF,north-florida-ospreys
+249,North Texas Mean Green,North Texas,North Texas,Mean Green,North Texas,UNT,north-texas-mean-green
+111,Northeastern Huskies,Northeastern,Northeastern,Huskies,Northeastern,NE,northeastern-huskies
+2464,Northern Arizona Lumberjacks,N Arizona,Northern Arizona,Lumberjacks,N Arizona,NAU,northern-arizona-lumberjacks
+2458,Northern Colorado Bears,N Colorado,Northern Colorado,Bears,N Colorado,UNCO,northern-colorado-bears
+2459,Northern Illinois Huskies,N Illinois,Northern Illinois,Huskies,N Illinois,NIU,northern-illinois-huskies
+2460,Northern Iowa Panthers,Northern Iowa,Northern Iowa,Panthers,Northern Iowa,UNI,northern-iowa-panthers
+94,Northern Kentucky Norse,N Kentucky,Northern Kentucky,Norse,N Kentucky,NKU,northern-kentucky-norse
+2466,Northwestern State Demons,N'Western St,Northwestern State,Demons,N'Western St,NWST,northwestern-state-demons
+77,Northwestern Wildcats,Northwestern,Northwestern,Wildcats,Northwestern,NU,northwestern-wildcats
+87,Notre Dame Fighting Irish,Notre Dame,Notre Dame,Fighting Irish,Notre Dame,ND,notre-dame-fighting-irish
+2473,Oakland Golden Grizzlies,Oakland,Oakland,Golden Grizzlies,Oakland,OAK,oakland-golden-grizzlies
+195,Ohio Bobcats,Ohio,Ohio,Bobcats,Ohio,OHIO,ohio-bobcats
+194,Ohio State Buckeyes,Ohio State,Ohio State,Buckeyes,Ohio State,OSU,ohio-state-buckeyes
+201,Oklahoma Sooners,Oklahoma,Oklahoma,Sooners,Oklahoma,OU,oklahoma-sooners
+197,Oklahoma State Cowboys,Oklahoma St,Oklahoma State,Cowboys,Oklahoma St,OKST,oklahoma-state-cowboys
+295,Old Dominion Monarchs,Old Dominion,Old Dominion,Monarchs,Old Dominion,ODU,old-dominion-monarchs
+145,Ole Miss Rebels,Ole Miss,Ole Miss,Rebels,Ole Miss,MISS,ole-miss-rebels
+2437,Omaha Mavericks,Omaha,Omaha,Mavericks,Omaha,OMA,omaha-mavericks
+198,Oral Roberts Golden Eagles,Oral Roberts,Oral Roberts,Golden Eagles,Oral Roberts,ORU,oral-roberts-golden-eagles
+2483,Oregon Ducks,Oregon,Oregon,Ducks,Oregon,ORE,oregon-ducks
+204,Oregon State Beavers,Oregon St,Oregon State,Beavers,Oregon St,ORST,oregon-state-beavers
+279,Pacific Tigers,Pacific,Pacific,Tigers,Pacific,PAC,pacific-tigers
+213,Penn State Nittany Lions,Penn State,Penn State,Nittany Lions,Penn State,PSU,penn-state-nittany-lions
+219,Pennsylvania Quakers,Penn,Pennsylvania,Quakers,Penn,PENN,pennsylvania-quakers
+2492,Pepperdine Waves,Pepperdine,Pepperdine,Waves,Pepperdine,PEPP,pepperdine-waves
+221,Pittsburgh Panthers,Pitt,Pittsburgh,Panthers,Pitt,PITT,pittsburgh-panthers
+2501,Portland Pilots,Portland,Portland,Pilots,Portland,PORT,portland-pilots
+2502,Portland State Vikings,Portland St,Portland State,Vikings,Portland St,PRST,portland-state-vikings
+2504,Prairie View A&M Panthers,Prairie View,Prairie View A&M,Panthers,Prairie View,PV,prairie-view-am-panthers
+2506,Presbyterian Blue Hose,Presbyterian,Presbyterian,Blue Hose,Presbyterian,PRES,presbyterian-blue-hose
+163,Princeton Tigers,Princeton,Princeton,Tigers,Princeton,PRIN,princeton-tigers
+2507,Providence Friars,Providence,Providence,Friars,Providence,PROV,providence-friars
+2509,Purdue Boilermakers,Purdue,Purdue,Boilermakers,Purdue,PUR,purdue-boilermakers
+2870,Purdue Fort Wayne Mastodons,Purdue FW,Purdue Fort Wayne,Mastodons,Purdue FW,PFW,purdue-fort-wayne-mastodons
+2514,Quinnipiac Bobcats,Quinnipiac,Quinnipiac,Bobcats,Quinnipiac,QUIN,quinnipiac-bobcats
+2515,Radford Highlanders,Radford,Radford,Highlanders,Radford,RAD,radford-highlanders
+227,Rhode Island Rams,Rhode Island,Rhode Island,Rams,Rhode Island,URI,rhode-island-rams
+242,Rice Owls,Rice,Rice,Owls,Rice,RICE,rice-owls
+257,Richmond Spiders,Richmond,Richmond,Spiders,Richmond,RICH,richmond-spiders
+2520,Rider Broncs,Rider,Rider,Broncs,Rider,RID,rider-broncs
+2523,Robert Morris Colonials,Robert Morris,Robert Morris,Colonials,Robert Morris,RMU,robert-morris-colonials
+164,Rutgers Scarlet Knights,Rutgers,Rutgers,Scarlet Knights,Rutgers,RUTG,rutgers-scarlet-knights
+2545,SE Louisiana Lions,SE Louisiana,SE Louisiana,Lions,SE Louisiana,SELA,se-louisiana-lions
+2565,SIU Edwardsville Cougars,SIUE,SIU Edwardsville,Cougars,SIUE,SIUE,siu-edwardsville-cougars
+2567,SMU Mustangs,SMU,SMU,Mustangs,SMU,SMU,smu-mustangs
+16,Sacramento State Hornets,Sacramento St,Sacramento State,Hornets,Sacramento St,SAC,sacramento-state-hornets
+2529,Sacred Heart Pioneers,Sacred Heart,Sacred Heart,Pioneers,Sacred Heart,SHU,sacred-heart-pioneers
+2598,Saint Francis Red Flash,Saint Francis,Saint Francis,Red Flash,Saint Francis,SFPA,saint-francis-red-flash
+2603,Saint Joseph's Hawks,Saint Joseph's,Saint Joseph's,Hawks,Saint Joseph's,JOES,saint-josephs-hawks
+139,Saint Louis Billikens,Saint Louis,Saint Louis,Billikens,Saint Louis,SLU,saint-louis-billikens
+2608,Saint Mary's Gaels,Saint Mary's,Saint Mary's,Gaels,Saint Mary's,SMC,saint-marys-gaels
+2612,Saint Peter's Peacocks,Saint Peter's,Saint Peter's,Peacocks,Saint Peter's,SPU,saint-peters-peacocks
+2534,Sam Houston Bearkats,Sam Houston,Sam Houston,Bearkats,Sam Houston,SHSU,sam-houston-bearkats
+2535,Samford Bulldogs,Samford,Samford,Bulldogs,Samford,SAM,samford-bulldogs
+21,San Diego State Aztecs,San Diego St,San Diego State,Aztecs,San Diego St,SDSU,san-diego-state-aztecs
+301,San Diego Toreros,San Diego,San Diego,Toreros,San Diego,USD,san-diego-toreros
+2539,San Francisco Dons,San Francisco,San Francisco,Dons,San Francisco,SF,san-francisco-dons
+23,San José State Spartans,San José St,San José State,Spartans,San José St,SJSU,san-jose-state-spartans
+2541,Santa Clara Broncos,Santa Clara,Santa Clara,Broncos,Santa Clara,SCU,santa-clara-broncos
+2547,Seattle U Redhawks,Seattle U,Seattle U,Redhawks,Seattle U,SEA,seattle-u-redhawks
+2550,Seton Hall Pirates,Seton Hall,Seton Hall,Pirates,Seton Hall,HALL,seton-hall-pirates
+2561,Siena Saints,Siena,Siena,Saints,Siena,SIE,siena-saints
+6,South Alabama Jaguars,South Alabama,South Alabama,Jaguars,South Alabama,USA,south-alabama-jaguars
+2579,South Carolina Gamecocks,South Carolina,South Carolina,Gamecocks,South Carolina,SC,south-carolina-gamecocks
+2569,South Carolina State Bulldogs,SC State,South Carolina State,Bulldogs,SC State,SCST,south-carolina-state-bulldogs
+2908,South Carolina Upstate Spartans,SC Upstate,South Carolina Upstate,Spartans,SC Upstate,UPST,south-carolina-upstate-spartans
+233,South Dakota Coyotes,South Dakota,South Dakota,Coyotes,South Dakota,SDAK,south-dakota-coyotes
+2571,South Dakota State Jackrabbits,S Dakota St,South Dakota State,Jackrabbits,S Dakota St,SDST,south-dakota-state-jackrabbits
+58,South Florida Bulls,South Florida,South Florida,Bulls,South Florida,USF,south-florida-bulls
+2546,Southeast Missouri State Redhawks,SE Missouri,Southeast Missouri State,Redhawks,SE Missouri,SEMO,southeast-missouri-state-redhawks
+79,Southern Illinois Salukis,S Illinois,Southern Illinois,Salukis,S Illinois,SIU,southern-illinois-salukis
+2582,Southern Jaguars,Southern,Southern,Jaguars,Southern,SOU,southern-jaguars
+2572,Southern Miss Golden Eagles,Southern Miss,Southern Miss,Golden Eagles,Southern Miss,USM,southern-miss-golden-eagles
+253,Southern Utah Thunderbirds,Southern Utah,Southern Utah,Thunderbirds,Southern Utah,SUU,southern-utah-thunderbirds
+179,St. Bonaventure Bonnies,St Bonaventure,St. Bonaventure,Bonnies,St Bonaventure,SBU,st-bonaventure-bonnies
+2599,St. John's Red Storm,St John's,St. John's,Red Storm,St John's,SJU,st-johns-red-storm
+2900,St. Thomas-Minnesota Tommies,St Thomas (MN),St. Thomas-Minnesota,Tommies,St Thomas (MN),STMN,st-thomas-minnesota-tommies
+24,Stanford Cardinal,Stanford,Stanford,Cardinal,Stanford,STAN,stanford-cardinal
+2617,Stephen F. Austin Lumberjacks,SF Austin,Stephen F. Austin,Lumberjacks,SF Austin,SFA,stephen-f-austin-lumberjacks
+56,Stetson Hatters,Stetson,Stetson,Hatters,Stetson,STET,stetson-hatters
+284,Stonehill Skyhawks,Stonehill,Stonehill,Skyhawks,Stonehill,STO,stonehill-skyhawks
+2619,Stony Brook Seawolves,Stony Brook,Stony Brook,Seawolves,Stony Brook,STBK,stony-brook-seawolves
+183,Syracuse Orange,Syracuse,Syracuse,Orange,Syracuse,SYR,syracuse-orange
+2628,TCU Horned Frogs,TCU,TCU,Horned Frogs,TCU,TCU,tcu-horned-frogs
+2627,Tarleton State Texans,Tarleton St,Tarleton State,Texans,Tarleton St,TAR,tarleton-state-texans
+218,Temple Owls,Temple,Temple,Owls,Temple,TEM,temple-owls
+2634,Tennessee State Tigers,Tennessee St,Tennessee State,Tigers,Tennessee St,TNST,tennessee-state-tigers
+2635,Tennessee Tech Golden Eagles,Tennessee Tech,Tennessee Tech,Golden Eagles,Tennessee Tech,TNTC,tennessee-tech-golden-eagles
+2633,Tennessee Volunteers,Tennessee,Tennessee,Volunteers,Tennessee,TENN,tennessee-volunteers
+245,Texas A&M Aggies,Texas A&M,Texas A&M,Aggies,Texas A&M,TA&M,texas-am-aggies
+357,Texas A&M-Corpus Christi Islanders,Texas A&M-CC,Texas A&M-Corpus Christi,Islanders,Texas A&M-CC,AMCC,texas-am-corpus-christi-islanders
+251,Texas Longhorns,Texas,Texas,Longhorns,Texas,TEX,texas-longhorns
+2640,Texas Southern Tigers,Texas Southern,Texas Southern,Tigers,Texas Southern,TXSO,texas-southern-tigers
+326,Texas State Bobcats,Texas St,Texas State,Bobcats,Texas St,TXST,texas-state-bobcats
+2641,Texas Tech Red Raiders,Texas Tech,Texas Tech,Red Raiders,Texas Tech,TTU,texas-tech-red-raiders
+2643,The Citadel Bulldogs,The Citadel,The Citadel,Bulldogs,The Citadel,CIT,the-citadel-bulldogs
+2649,Toledo Rockets,Toledo,Toledo,Rockets,Toledo,TOL,toledo-rockets
+119,Towson Tigers,Towson,Towson,Tigers,Towson,TOW,towson-tigers
+2653,Troy Trojans,Troy,Troy,Trojans,Troy,TROY,troy-trojans
+2655,Tulane Green Wave,Tulane,Tulane,Green Wave,Tulane,TULN,tulane-green-wave
+202,Tulsa Golden Hurricane,Tulsa,Tulsa,Golden Hurricane,Tulsa,TLSA,tulsa-golden-hurricane
+5,UAB Blazers,UAB,UAB,Blazers,UAB,UAB,uab-blazers
+399,UAlbany Great Danes,UAlbany,UAlbany,Great Danes,UAlbany,UALB,ualbany-great-danes
+302,UC Davis Aggies,UC Davis,UC Davis,Aggies,UC Davis,UCD,uc-davis-aggies
+300,UC Irvine Anteaters,UC Irvine,UC Irvine,Anteaters,UC Irvine,UCI,uc-irvine-anteaters
+27,UC Riverside Highlanders,UC Riverside,UC Riverside,Highlanders,UC Riverside,UCR,uc-riverside-highlanders
+28,UC San Diego Tritons,UC San Diego,UC San Diego,Tritons,UC San Diego,UCSD,uc-san-diego-tritons
+2540,UC Santa Barbara Gauchos,Santa Barbara,UC Santa Barbara,Gauchos,Santa Barbara,UCSB,uc-santa-barbara-gauchos
+2116,UCF Knights,UCF,UCF,Knights,UCF,UCF,ucf-knights
+26,UCLA Bruins,UCLA,UCLA,Bruins,UCLA,UCLA,ucla-bruins
+41,UConn Huskies,UConn,UConn,Huskies,UConn,CONN,uconn-huskies
+82,UIC Flames,UIC,UIC,Flames,UIC,UIC,uic-flames
+2433,UL Monroe Warhawks,UL Monroe,UL Monroe,Warhawks,UL Monroe,ULM,ul-monroe-warhawks
+2378,UMBC Retrievers,UMBC,UMBC,Retrievers,UMBC,UMBC,umbc-retrievers
+2349,UMass Lowell River Hawks,UMass Lowell,UMass Lowell,River Hawks,UMass Lowell,UML,umass-lowell-river-hawks
+2427,UNC Asheville Bulldogs,UNC Asheville,UNC Asheville,Bulldogs,UNC Asheville,UNCA,unc-asheville-bulldogs
+2430,UNC Greensboro Spartans,UNC Greensboro,UNC Greensboro,Spartans,UNC Greensboro,UNCG,unc-greensboro-spartans
+350,UNC Wilmington Seahawks,UNC Wilmington,UNC Wilmington,Seahawks,UNC Wilmington,UNCW,unc-wilmington-seahawks
+2439,UNLV Rebels,UNLV,UNLV,Rebels,UNLV,UNLV,unlv-rebels
+30,USC Trojans,USC,USC,Trojans,USC,USC,usc-trojans
+250,UT Arlington Mavericks,UT Arlington,UT Arlington,Mavericks,UT Arlington,UTA,ut-arlington-mavericks
+2630,UT Martin Skyhawks,UT Martin,UT Martin,Skyhawks,UT Martin,UTM,ut-martin-skyhawks
+292,UT Rio Grande Valley Vaqueros,UT Rio Grande,UT Rio Grande Valley,Vaqueros,UT Rio Grande,RGV,ut-rio-grande-valley-vaqueros
+2638,UTEP Miners,UTEP,UTEP,Miners,UTEP,UTEP,utep-miners
+2636,UTSA Roadrunners,UTSA,UTSA,Roadrunners,UTSA,UTSA,utsa-roadrunners
+328,Utah State Aggies,Utah State,Utah State,Aggies,Utah State,USU,utah-state-aggies
+3101,Utah Tech Trailblazers,Utah Tech,Utah Tech,Trailblazers,Utah Tech,UTU,utah-tech-trailblazers
+254,Utah Utes,Utah,Utah,Utes,Utah,UTAH,utah-utes
+3084,Utah Valley Wolverines,Utah Valley,Utah Valley,Wolverines,Utah Valley,UVU,utah-valley-wolverines
+2670,VCU Rams,VCU,VCU,Rams,VCU,VCU,vcu-rams
+2678,VMI Keydets,VMI,VMI,Keydets,VMI,VMI,vmi-keydets
+2674,Valparaiso Beacons,Valparaiso,Valparaiso,Beacons,Valparaiso,VAL,valparaiso-beacons
+238,Vanderbilt Commodores,Vanderbilt,Vanderbilt,Commodores,Vanderbilt,VAN,vanderbilt-commodores
+261,Vermont Catamounts,Vermont,Vermont,Catamounts,Vermont,UVM,vermont-catamounts
+222,Villanova Wildcats,Villanova,Villanova,Wildcats,Villanova,VILL,villanova-wildcats
+258,Virginia Cavaliers,Virginia,Virginia,Cavaliers,Virginia,UVA,virginia-cavaliers
+259,Virginia Tech Hokies,Virginia Tech,Virginia Tech,Hokies,Virginia Tech,VT,virginia-tech-hokies
+2681,Wagner Seahawks,Wagner,Wagner,Seahawks,Wagner,WAG,wagner-seahawks
+154,Wake Forest Demon Deacons,Wake Forest,Wake Forest,Demon Deacons,Wake Forest,WAKE,wake-forest-demon-deacons
+264,Washington Huskies,Washington,Washington,Huskies,Washington,WASH,washington-huskies
+265,Washington State Cougars,Washington St,Washington State,Cougars,Washington St,WSU,washington-state-cougars
+2692,Weber State Wildcats,Weber St,Weber State,Wildcats,Weber St,WEB,weber-state-wildcats
+2698,West Georgia Wolves,West Georgia,West Georgia,Wolves,West Georgia,WGA,west-georgia-wolves
+277,West Virginia Mountaineers,West Virginia,West Virginia,Mountaineers,West Virginia,WVU,west-virginia-mountaineers
+2717,Western Carolina Catamounts,W Carolina,Western Carolina,Catamounts,W Carolina,WCU,western-carolina-catamounts
+2710,Western Illinois Leathernecks,W Illinois,Western Illinois,Leathernecks,W Illinois,WIU,western-illinois-leathernecks
+98,Western Kentucky Hilltoppers,Western KY,Western Kentucky,Hilltoppers,Western KY,WKU,western-kentucky-hilltoppers
+2711,Western Michigan Broncos,W Michigan,Western Michigan,Broncos,W Michigan,WMU,western-michigan-broncos
+2724,Wichita State Shockers,Wichita St,Wichita State,Shockers,Wichita St,WICH,wichita-state-shockers
+2729,William & Mary Tribe,William & Mary,William & Mary,Tribe,William & Mary,W&M,william-mary-tribe
+2737,Winthrop Eagles,Winthrop,Winthrop,Eagles,Winthrop,WIN,winthrop-eagles
+275,Wisconsin Badgers,Wisconsin,Wisconsin,Badgers,Wisconsin,WIS,wisconsin-badgers
+2747,Wofford Terriers,Wofford,Wofford,Terriers,Wofford,WOF,wofford-terriers
+2750,Wright State Raiders,Wright St,Wright State,Raiders,Wright St,WRST,wright-state-raiders
+2751,Wyoming Cowboys,Wyoming,Wyoming,Cowboys,Wyoming,WYO,wyoming-cowboys
+2752,Xavier Musketeers,Xavier,Xavier,Musketeers,Xavier,XAV,xavier-musketeers
+43,Yale Bulldogs,Yale,Yale,Bulldogs,Yale,YALE,yale-bulldogs
+2754,Youngstown State Penguins,Youngstown St,Youngstown State,Penguins,Youngstown St,YSU,youngstown-state-penguins

@@ -1,0 +1,14 @@
+# Generated verification artifacts
+output/
+
+# Raw handoff exports kept locally but not needed by the static site
+guess_the_player_game_handoff_20260611_092741/source_reference/
+guess_the_player_game_handoff_20260611_092741/guess_the_player_game_data.json
+guess_the_player_game_handoff_20260611_092741/guess_the_player_phrase_cards.csv
+guess_the_player_game_handoff_20260611_092741/guess_the_player_phrase_wide.csv
+guess_the_player_game_handoff_20260611_092741/guess_the_player_player_index.csv
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,18 @@
+{
+  "generated_at": "20260611_092741",
+  "output_folder": "C:\\Users\\jksut\\Downloads\\Fun Data Testing\\guess_the_player_game_handoff_20260611_092741",
+  "source_files": {
+    "ui_overlay": "C:\\Users\\jksut\\Downloads\\Fun Data Testing\\rsci_nlp_package_staging\\nlp_draft_bias_research\\outputs_llm_enhanced\\actual_to_date_xrapm_2023_2025_20260610_115118\\draft_nlp_player_consensus_ui_with_actual_to_date_xrapm_overlay.csv",
+    "trait_phrase_long": "C:\\Users\\jksut\\Downloads\\Fun Data Testing\\rsci_nlp_package_staging\\nlp_draft_bias_research\\outputs_llm_enhanced\\all_years_numeric_trait_phrase_handoff_20260610_094136\\trait_phrase_evidence_by_player_long.csv",
+    "trait_phrase_wide": "C:\\Users\\jksut\\Downloads\\Fun Data Testing\\rsci_nlp_package_staging\\nlp_draft_bias_research\\outputs_llm_enhanced\\all_years_numeric_trait_phrase_handoff_20260610_094136\\trait_phrase_evidence_by_player_wide.csv",
+    "headshot_manifest": "C:\\Users\\jksut\\Downloads\\Fun Data Testing\\rsci_nlp_package_staging\\nlp_draft_bias_research\\outputs_llm_enhanced\\all_years_numeric_trait_phrase_handoff_20260610_094136\\headshot_asset_manifest_for_all_years.csv",
+    "nba_player_outcomes_pick_backfill": "C:\\Users\\jksut\\Downloads\\Fun Data Testing\\outputs\\player_development_curve_schema_test\\nba_player_outcomes.csv"
+  },
+  "counts": {
+    "players": 817,
+    "phrase_cards": 13270,
+    "wide_phrase_rows": 773,
+    "drafted_players": 800,
+    "undrafted_or_pick_missing_nba_players": 17
+  }
+}
