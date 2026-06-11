@@ -333,11 +333,27 @@ function hasMismatchedNamedSubject(phrase, player) {
     const subject = normalizeSearch(match[1]).split(" ").filter(Boolean);
     if (!subject.length) continue;
     if (subject.every((part) => answerParts.has(part))) continue;
+    if (!startsMainClause(String(phrase), match.index)) continue;
+    if (relatesBackToAnswer(String(phrase).slice(match.index + match[0].length))) continue;
 
     return true;
   }
 
   return false;
+}
+
+function startsMainClause(text, index) {
+  const before = text.slice(0, index).trimEnd();
+  if (!before) return true;
+  if (/[.!?;:]\s*$/.test(before)) return true;
+  if (!/,\s*$/.test(before)) return false;
+
+  return /\b(after|as|based on|coming off|despite|during|following|fresh off|from|given|in|once|when|while|with)\b/i.test(before);
+}
+
+function relatesBackToAnswer(text) {
+  return /\b(he|his|him|himself|the player|this player|the prospect)\b/i.test(text)
+    || /\b(comp|comparison|archetype|mold|template|reminds)\b/i.test(text);
 }
 
 function splitClueText(text) {
@@ -1340,6 +1356,11 @@ function installSmokeHooks() {
       const player = state.playerByKey.get(playerKey);
       if (!player) return [];
       return prepareCardsForPlayer(player).map((card) => card.clean_phrase);
+    },
+    getCleanPhrasesForFixture(playerKey, phraseText) {
+      const player = state.playerByKey.get(playerKey);
+      if (!player) return [];
+      return cleanPhrases({ phrase_text_redacted: phraseText }, player);
     },
     getDraftMetaForPlayer(playerKey) {
       const player = state.playerByKey.get(playerKey);

@@ -172,6 +172,23 @@ async function assertKnownClueCleanup(page) {
     ramseyClues.some((clue) => /scorer.s mentality|guard position|behind the arch/i.test(clue)),
     "legitimate Jahmi'us Ramsey guard/scorer clues remain"
   );
+
+  const detachedSubjectFixture = await page.evaluate(() => {
+    return window.__guessThePlayerSmoke.getCleanPhrasesForFixture(
+      "jahmi us ramsey",
+      "Fresh off a season in which he averaged 15.5 points and 10.5 rebounds, Smith is an ideal big to pair with Shai Gilgeous-Alexander."
+    );
+  });
+  assert.equal(detachedSubjectFixture.length, 0, "detached named-subject clues are removed");
+
+  const contextualPlayerFixture = await page.evaluate(() => {
+    return window.__guessThePlayerSmoke.getCleanPhrasesForFixture(
+      "jahmi us ramsey",
+      "Shai Gilgeous-Alexander is useful context for him as a scoring guard who needs an advantage creator nearby."
+    );
+  });
+  assert.equal(contextualPlayerFixture.length, 1, "named-player context is kept when it relates back to the answer");
+  assert.match(contextualPlayerFixture[0], /Shai Gilgeous-Alexander/i, "contextual player name remains visible");
 }
 
 async function assertContextualInitialsSearch(page) {
